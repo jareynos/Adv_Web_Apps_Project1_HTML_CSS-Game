@@ -16,7 +16,7 @@ Starfall: A Journal Through Shadows is a text-based adventure game that brings y
 * Thats it! No installations necessary besides that.
 
 ### How to Play?
-* Open index.html
+* Open index.html in your browser OR https://jareynos.github.io/Adv_Web_Apps_Project1_HTML_CSS-Game/
 * Read the game's introduction and choose your journey!
 * Navigate using the interactive buttons
 
